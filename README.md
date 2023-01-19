@@ -14,3 +14,6 @@ git push origin [branch]
 //it will show the status of the current repository including the file that have been modified and which needs to be committed
 
 git status
+
+//creating a branch name with UAT
+Git checkout -b UAT
